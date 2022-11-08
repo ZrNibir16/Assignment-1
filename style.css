@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 p {
@@ -23,6 +24,7 @@ h1 {
 
 .first-banner {
     display: flex;
+    margin-left: 1%;
 }
 
 .first-banner-div {
@@ -55,8 +57,7 @@ h3 {
 
 .seond-banner {
     display: flex;
-    padding: 2%;
-    margin-left: 2%;
+    margin-left: 5%;
 }
 
 .mission {
