@@ -135,3 +135,28 @@ h3 {
 .practice-head {
     font-size: 37px;
 }
+
+.fourth-banner {
+    display: flex;
+    margin: 1%;
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 97% 125%;
+    background-size: 180px;
+}
+
+.community {
+    width: 100%;
+    margin-left: 4%;
+    margin-right: 2%;
+    margin-top: 3%;
+    padding: 1%;
+}
+
+.community img {
+    width: 75%;
+    height: 100%;
+    border-radius: 20px;
+    margin-left: 10%;
+    margin-top: 4%;
+}
